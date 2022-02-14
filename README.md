@@ -1,4 +1,4 @@
-# peer-to-peer-chat-app# Overview
+# Overview
 
 Secured chat app with no centralized database. Utilize Socket.io and webRTC techs. All data is stored in the peer's server and the user's local storage.
 
